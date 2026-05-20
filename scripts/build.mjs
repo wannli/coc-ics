@@ -3,9 +3,7 @@ import { createIcs, extractEventsFromYearHtml, summarize } from "../src/calendar
 
 const sampleHtml = await readFile("test/fixtures/year-snippet.html", "utf8");
 const events = extractEventsFromYearHtml(sampleHtml, {
-  sourceUrl: "https://www.un.org/calendar/en/year",
-  query: "Committee",
-  year: "2026"
+  sourceUrl: "https://www.un.org/calendar/en/year"
 });
 const stats = summarize(events);
 
@@ -14,7 +12,7 @@ await mkdir("dist", { recursive: true });
 await cp("src/client", "dist", { recursive: true });
 await writeFile(
   "dist/sample-dgacm-calendar.ics",
-  createIcs(events, { calendarName: "DGACM Calendar Sample" })
+  createIcs(events, { calendarName: "DGACM Calendar Sample", dtstamp: "1970-01-01T00:00:00Z" })
 );
 await writeFile(
   "dist/build-info.json",

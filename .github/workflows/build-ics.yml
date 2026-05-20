@@ -6,11 +6,11 @@ on:
       query:
         description: Text filter for meeting rows
         required: false
-        default: Committee on Conferences
+        default: ""
       year:
         description: Calendar year to export, or current/all
         required: false
-        default: current
+        default: all
   schedule:
     - cron: "0 13 * * *"
     - cron: "0 14 * * *"
@@ -22,8 +22,8 @@ jobs:
   build-ics:
     runs-on: ubuntu-latest
     env:
-      FILTER_QUERY: ${{ github.event.inputs.query || 'Committee on Conferences' }}
-      FILTER_YEAR: ${{ github.event.inputs.year || 'current' }}
+      FILTER_QUERY: ${{ github.event.inputs.query || '' }}
+      FILTER_YEAR: ${{ github.event.inputs.year || 'all' }}
 
     steps:
       - name: Keep only 9am New York scheduled runs

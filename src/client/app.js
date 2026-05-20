@@ -17,6 +17,18 @@ const els = {
 };
 
 const sampleHtml = `
+<div id="year_2025_monthsdecember">
+  <table>
+    <tbody>
+      <tr>
+        <td class="views-field views-field-uw-search-aggregated-title">Conference of the States Parties to the United Nations Convention against Corruption, Eleventh session</td>
+        <td class="views-field views-field-name">Doha</td>
+        <td class="views-field views-field-uw-calendar-conference-from-date"><span>15 Dec 2025</span></td>
+        <td class="views-field views-field-uw-calendar-conference-to-date"><span>19 Dec 2025</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <div id="year_2026_months">
   <table>
     <tbody>
@@ -37,6 +49,18 @@ const sampleHtml = `
         <td class="views-field views-field-name">New York</td>
         <td class="views-field views-field-uw-calendar-conference-from-date">Dates to be determined</td>
         <td class="views-field views-field-uw-calendar-conference-to-date">Dates to be determined</td>
+      </tr>
+      <tr>
+        <td class="views-field views-field-uw-search-aggregated-title">Economic and Social Council, Operational activities for development segment</td>
+        <td class="views-field views-field-name">New York</td>
+        <td class="views-field views-field-uw-calendar-conference-from-date"><span>1 Jun 2026</span></td>
+        <td class="views-field views-field-uw-calendar-conference-to-date"><span>3 Jun 2026</span></td>
+      </tr>
+      <tr>
+        <td class="views-field views-field-uw-search-aggregated-title">Committee on Contributions, Eighty-sixth session</td>
+        <td class="views-field views-field-name">New York</td>
+        <td class="views-field views-field-uw-calendar-conference-from-date"><span>1 Jun 2026</span></td>
+        <td class="views-field views-field-uw-calendar-conference-to-date"><span>19 Jun 2026</span></td>
       </tr>
     </tbody>
   </table>

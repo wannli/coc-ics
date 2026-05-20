@@ -8,8 +8,9 @@ const SOURCE_URL = "https://www.un.org/calendar/en/year";
 const args = parseArgs(process.argv.slice(2));
 const outPath = args.out ?? "dgacm-coc.ics";
 const summaryPath = args.summary ?? "dist/dgacm-coc-summary.json";
-const query = args.query ?? process.env.FILTER_QUERY ?? "Committee on Conferences";
-const year = normalizeYear(args.year ?? process.env.FILTER_YEAR ?? "current");
+const query = args.query ?? process.env.FILTER_QUERY ?? "";
+const rawYear = args.year ?? process.env.FILTER_YEAR ?? "all";
+const year = normalizeYear(rawYear);
 const sourceUrl = args.source ?? SOURCE_URL;
 const minimumEvents = Number(args["min-events"] ?? process.env.MIN_EVENTS ?? 0);
 const dtstamp = args.dtstamp ?? process.env.DTSTAMP ?? "1970-01-01T00:00:00Z";
@@ -23,7 +24,7 @@ const events = extractEventsFromYearHtml(html, {
 });
 const stats = summarize(events);
 const ics = createIcs(events, {
-  calendarName: args.name ?? process.env.CALENDAR_NAME ?? "DGACM Committee on Conferences",
+  calendarName: args.name ?? process.env.CALENDAR_NAME ?? "DGACM Calendar of Conferences and Meetings",
   dtstamp
 });
 
@@ -32,7 +33,7 @@ await mkdir(dirname(summaryPath), { recursive: true });
 await writeFile(outPath, ics);
 await writeFile(
   summaryPath,
-  `${JSON.stringify({ sourceUrl, query, year, output: outPath, ...stats }, null, 2)}\n`
+  `${JSON.stringify({ sourceUrl, query, year: year || "all", output: outPath, ...stats }, null, 2)}\n`
 );
 
 if (stats.dated < minimumEvents) {
