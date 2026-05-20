@@ -1,0 +1,64 @@
+name: Build ICS
+
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: Text filter for meeting rows
+        required: false
+        default: Committee on Conferences
+      year:
+        description: Calendar year to export, or current/all
+        required: false
+        default: current
+  schedule:
+    - cron: "0 13 * * *"
+    - cron: "0 14 * * *"
+
+jobs:
+  build-ics:
+    runs-on: ubuntu-latest
+    env:
+      FILTER_QUERY: ${{ github.event.inputs.query || 'Committee on Conferences' }}
+      FILTER_YEAR: ${{ github.event.inputs.year || 'current' }}
+
+    steps:
+      - name: Keep only 9am New York scheduled runs
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(TZ=America/New_York date +%H)" != "09" ]; then
+            echo "SKIP_ICS=true" >> "$GITHUB_ENV"
+            echo "Skipping because this scheduled run is not 9am in New York."
+          fi
+
+      - name: Check out repository
+        if: env.SKIP_ICS != 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        if: env.SKIP_ICS != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Test
+        if: env.SKIP_ICS != 'true'
+        run: npm test
+
+      - name: Build local app
+        if: env.SKIP_ICS != 'true'
+        run: npm run build
+
+      - name: Export ICS
+        if: env.SKIP_ICS != 'true'
+        run: npm run export:ics -- --out dist/dgacm-coc.ics --summary dist/dgacm-coc-summary.json
+
+      - name: Upload ICS artifact
+        if: env.SKIP_ICS != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: dgacm-coc-ics
+          path: |
+            dist/dgacm-coc.ics
+            dist/dgacm-coc-summary.json
+          if-no-files-found: error

@@ -1,0 +1,16 @@
+{
+  "name": "dgacm-coc-ics",
+  "version": "0.1.0",
+  "description": "Local UN DGACM calendar year-page to ICS exporter.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node src/server.mjs",
+    "export:ics": "node scripts/export-ics.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
