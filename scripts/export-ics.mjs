@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
 import { spawn } from "node:child_process";
-import { createIcs, extractEventsFromYearHtml, summarize } from "../src/calendar.mjs";
+import { createIcs, dedupeEvents, extractEventsFromYearHtml, summarize } from "../src/calendar.mjs";
 
 const SOURCE_URL = "https://www.un.org/calendar/en/year";
 
@@ -14,14 +14,12 @@ const year = normalizeYear(rawYear);
 const sourceUrl = args.source ?? SOURCE_URL;
 const minimumEvents = Number(args["min-events"] ?? process.env.MIN_EVENTS ?? 0);
 const dtstamp = args.dtstamp ?? process.env.DTSTAMP ?? "1970-01-01T00:00:00Z";
+const maxPages = Number(args["max-pages"] ?? process.env.MAX_PAGES ?? 50);
 
-const html = args.input ? await readTextFile(args.input) : await fetchHtml(sourceUrl);
-const events = extractEventsFromYearHtml(html, {
-  sourceUrl,
-  query,
-  year,
-  committeeOnly: args["committee-only"] === "true"
-});
+const result = args.input
+  ? await extractEventsFromInput(args.input, sourceUrl)
+  : await extractEventsFromPaginatedYearView(sourceUrl);
+const events = result.events;
 const stats = summarize(events);
 const ics = createIcs(events, {
   calendarName: args.name ?? process.env.CALENDAR_NAME ?? "DGACM Calendar of Conferences and Meetings",
@@ -33,7 +31,7 @@ await mkdir(dirname(summaryPath), { recursive: true });
 await writeFile(outPath, ics);
 await writeFile(
   summaryPath,
-  `${JSON.stringify({ sourceUrl, query, year: year || "all", output: outPath, ...stats }, null, 2)}\n`
+  `${JSON.stringify({ sourceUrl, query, year: year || "all", pagesFetched: result.pagesFetched, output: outPath, ...stats }, null, 2)}\n`
 );
 
 if (stats.dated < minimumEvents) {
@@ -41,6 +39,48 @@ if (stats.dated < minimumEvents) {
 }
 
 console.log(`Wrote ${outPath}: ${stats.dated} exportable events, ${stats.tentative} undated rows skipped.`);
+
+async function extractEventsFromInput(path, inputSourceUrl) {
+  const html = await readTextFile(path);
+  return {
+    pagesFetched: 1,
+    events: dedupeEvents(extractEventsFromYearHtml(html, parserOptions(inputSourceUrl)))
+  };
+}
+
+async function extractEventsFromPaginatedYearView(firstUrl) {
+  const events = [];
+  let pagesFetched = 0;
+  let pagerEnded = false;
+
+  for (let page = 0; page < maxPages; page += 1) {
+    const currentUrl = pageUrl(firstUrl, page);
+    const html = await fetchHtml(currentUrl);
+    const pageEvents = extractEventsFromYearHtml(html, parserOptions(currentUrl));
+    events.push(...pageEvents);
+    pagesFetched += 1;
+
+    if (!hasNextPage(html)) {
+      pagerEnded = true;
+      break;
+    }
+  }
+
+  if (!pagerEnded) {
+    throw new Error(`Stopped after ${maxPages} pages before the UN pager ended`);
+  }
+
+  return { pagesFetched, events: dedupeEvents(events) };
+}
+
+function parserOptions(currentSourceUrl) {
+  return {
+    sourceUrl: currentSourceUrl,
+    query,
+    year,
+    committeeOnly: args["committee-only"] === "true"
+  };
+}
 
 async function fetchHtml(url) {
   try {
@@ -80,6 +120,20 @@ async function fetchWithCurl(url) {
       }
     });
   });
+}
+
+function pageUrl(url, page) {
+  const parsed = new URL(url);
+  if (page === 0) {
+    parsed.searchParams.delete("page");
+  } else {
+    parsed.searchParams.set("page", String(page));
+  }
+  return parsed.toString();
+}
+
+function hasNextPage(html) {
+  return /uw-paginator-item--next|pager__item--next|rel=["']next["']|Go to next page/i.test(html);
 }
 
 async function readTextFile(path) {

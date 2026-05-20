@@ -1,10 +1,10 @@
 import { mkdir, readFile, rm, writeFile, cp } from "node:fs/promises";
-import { createIcs, extractEventsFromYearHtml, summarize } from "../src/calendar.mjs";
+import { createIcs, dedupeEvents, extractEventsFromYearHtml, summarize } from "../src/calendar.mjs";
 
 const sampleHtml = await readFile("test/fixtures/year-snippet.html", "utf8");
-const events = extractEventsFromYearHtml(sampleHtml, {
+const events = dedupeEvents(extractEventsFromYearHtml(sampleHtml, {
   sourceUrl: "https://www.un.org/calendar/en/year"
-});
+}));
 const stats = summarize(events);
 
 await rm("dist", { recursive: true, force: true });

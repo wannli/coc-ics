@@ -86,6 +86,21 @@ export function matchesEvent(event, options = {}) {
   return true;
 }
 
+export function dedupeEvents(events) {
+  const seen = new Set();
+  const deduped = [];
+
+  for (const event of events) {
+    const key = eventKey(event);
+    if (!seen.has(key)) {
+      seen.add(key);
+      deduped.push(event);
+    }
+  }
+
+  return deduped;
+}
+
 export function isCommitteeEvent(event) {
   const text = normalize(`${event.title} ${event.venue}`);
   return text.includes("committee on conferences") || /\bcoc\b/.test(text);
@@ -157,6 +172,15 @@ export function cleanText(html) {
     .replace(/<[^>]*>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function eventKey(event) {
+  return [
+    event.title,
+    event.venue,
+    event.fromText,
+    event.toText
+  ].map(normalize).join("|");
 }
 
 function fieldFromAttrs(attrs) {

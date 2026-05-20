@@ -2,7 +2,7 @@ import { createServer } from "node:http";
 import { readFile } from "node:fs/promises";
 import { extname, join, normalize, resolve } from "node:path";
 import { spawn } from "node:child_process";
-import { createIcs, extractEventsFromYearHtml, summarize } from "./calendar.mjs";
+import { createIcs, dedupeEvents, extractEventsFromYearHtml, summarize } from "./calendar.mjs";
 
 const PORT = Number(process.env.PORT ?? 4173);
 const HOST = process.env.HOST ?? "127.0.0.1";
@@ -14,29 +14,29 @@ const server = createServer(async (req, res) => {
     const url = new URL(req.url ?? "/", `http://${req.headers.host}`);
 
     if (url.pathname === "/api/fetch") {
-      const html = await fetchYearPage();
-      return sendJson(res, { ok: true, sourceUrl: SOURCE_URL, htmlLength: html.length, html });
+      const { html, pagesFetched } = await fetchYearPages();
+      return sendJson(res, { ok: true, sourceUrl: SOURCE_URL, pagesFetched, htmlLength: html.length, html });
     }
 
     if (url.pathname === "/api/preview" && req.method === "POST") {
       const body = await readJson(req);
-      const events = extractEventsFromYearHtml(body.html ?? "", {
+      const events = dedupeEvents(extractEventsFromYearHtml(body.html ?? "", {
         sourceUrl: body.sourceUrl ?? SOURCE_URL,
         query: body.query ?? "",
         year: body.year ?? "",
         committeeOnly: Boolean(body.committeeOnly)
-      });
+      }));
       return sendJson(res, { ok: true, events, summary: summarize(events) });
     }
 
     if (url.pathname === "/api/export" && req.method === "POST") {
       const body = await readJson(req);
-      const events = extractEventsFromYearHtml(body.html ?? "", {
+      const events = dedupeEvents(extractEventsFromYearHtml(body.html ?? "", {
         sourceUrl: body.sourceUrl ?? SOURCE_URL,
         query: body.query ?? "",
         year: body.year ?? "",
         committeeOnly: Boolean(body.committeeOnly)
-      });
+      }));
       const ics = createIcs(events, {
         calendarName: body.calendarName || "DGACM Calendar Export"
       });
@@ -57,9 +57,24 @@ server.listen(PORT, HOST, () => {
   console.log(`DGACM COC ICS running at http://${HOST}:${PORT}`);
 });
 
-async function fetchYearPage() {
+async function fetchYearPages() {
+  const pages = [];
+
+  for (let page = 0; page < 50; page += 1) {
+    const url = pageUrl(SOURCE_URL, page);
+    const html = await fetchHtml(url);
+    pages.push(`<!-- source: ${url} -->\n${html}`);
+    if (!hasNextPage(html)) {
+      return { html: pages.join("\n"), pagesFetched: pages.length };
+    }
+  }
+
+  throw new Error("Stopped after 50 pages before the UN pager ended");
+}
+
+async function fetchHtml(url) {
   try {
-    const response = await fetch(SOURCE_URL, {
+    const response = await fetch(url, {
       headers: { "User-Agent": "Mozilla/5.0" }
     });
     if (!response.ok) {
@@ -67,7 +82,7 @@ async function fetchYearPage() {
     }
     return await response.text();
   } catch {
-    return await fetchWithCurl(SOURCE_URL);
+    return await fetchWithCurl(url);
   }
 }
 
@@ -95,6 +110,20 @@ async function fetchWithCurl(url) {
       }
     });
   });
+}
+
+function pageUrl(url, page) {
+  const parsed = new URL(url);
+  if (page === 0) {
+    parsed.searchParams.delete("page");
+  } else {
+    parsed.searchParams.set("page", String(page));
+  }
+  return parsed.toString();
+}
+
+function hasNextPage(html) {
+  return /uw-paginator-item--next|pager__item--next|rel=["']next["']|Go to next page/i.test(html);
 }
 
 async function serveStatic(pathname, res) {

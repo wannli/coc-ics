@@ -62,6 +62,18 @@ const sampleHtml = `
         <td class="views-field views-field-uw-calendar-conference-from-date"><span>1 Jun 2026</span></td>
         <td class="views-field views-field-uw-calendar-conference-to-date"><span>19 Jun 2026</span></td>
       </tr>
+      <tr>
+        <td class="views-field views-field-uw-search-aggregated-title">Committee for Programme and Coordination, Sixty-sixth session</td>
+        <td class="views-field views-field-name">New York</td>
+        <td class="views-field views-field-uw-calendar-conference-from-date"><span>11 May 2026</span></td>
+        <td class="views-field views-field-uw-calendar-conference-to-date"><span>12 Jun 2026</span></td>
+      </tr>
+      <tr>
+        <td class="views-field views-field-uw-search-aggregated-title">Committee for Programme and Coordination</td>
+        <td class="views-field views-field-name">New York</td>
+        <td class="views-field views-field-uw-calendar-conference-from-date"><span>30 Mar 2026</span></td>
+        <td class="views-field views-field-uw-calendar-conference-to-date"><span>30 Mar 2026</span></td>
+      </tr>
     </tbody>
   </table>
 </div>`;
