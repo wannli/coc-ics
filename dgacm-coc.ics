@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Local DGACM COC ICS//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DGACM Committee on Conferences
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:13ca110b@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260915
+SUMMARY:Committee on Conferences\, Substantive session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 8 Sep 2
+ 026 to 14 Sep 2026
+URL:https://www.un.org/calendar/en/year
+END:VEVENT
+END:VCALENDAR

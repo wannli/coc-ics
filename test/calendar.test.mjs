@@ -34,6 +34,7 @@ test("creates valid all-day ICS and skips tentative rows", () => {
   assert.match(ics, /^BEGIN:VCALENDAR\r\n/);
   assert.match(ics, /X-WR-CALNAME:Test Calendar/);
   assert.match(ics, /SUMMARY:Committee on Conferences\\, organizational session/);
+  assert.match(ics, /DESCRIPTION:Source: UN Calendar of Conferences and Meetings\\nDates:/);
   assert.match(ics, /DTSTART;VALUE=DATE:20260423/);
   assert.match(ics, /DTEND;VALUE=DATE:20260424/);
   assert.match(ics, /DTSTART;VALUE=DATE:20260902/);

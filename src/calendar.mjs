@@ -95,7 +95,7 @@ export function createIcs(events, options = {}) {
   const datedEvents = events.filter((event) => !event.tentative);
   const prodId = options.prodId ?? "-//Local DGACM COC ICS//EN";
   const calendarName = options.calendarName ?? "DGACM Calendar Export";
-  const now = formatTimestamp(new Date());
+  const now = formatTimestamp(options.dtstamp ? new Date(options.dtstamp) : new Date());
   const lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -221,7 +221,7 @@ function escapeIcsText(value) {
 
 function descriptionFor(event) {
   const dateLine = event.startDate === event.endDate ? event.fromText : `${event.fromText} to ${event.toText}`;
-  return `Source: UN Calendar of Conferences and Meetings\\nDates: ${dateLine}`;
+  return `Source: UN Calendar of Conferences and Meetings\nDates: ${dateLine}`;
 }
 
 function eventUid(event) {
