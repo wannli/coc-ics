@@ -6995,19 +6995,6 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 1 Dec 2
 URL:https://www.un.org/calendar/en/year
 END:VEVENT
 BEGIN:VEVENT
-UID:91070259@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261205
-SUMMARY:2026 United Nations Water Conference to Accelerate the Implementati
- on of Sustainable Development Goal 6: Ensure availability and sustainable 
- management of water and sanitation for all
-LOCATION:United Arab Emirates
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 2 Dec 2
- 026 to 4 Dec 2026
-URL:https://www.un.org/calendar/en/year
-END:VEVENT
-BEGIN:VEVENT
 UID:17d7a21a@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -13652,6 +13639,19 @@ SUMMARY:Board of Auditors\, Fifty-sixth special session
 LOCATION:Cairo
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 8 Dec 2
  026
+URL:https://www.un.org/calendar/en/year?page=1
+END:VEVENT
+BEGIN:VEVENT
+UID:bf30e2ae@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+SUMMARY:2026 United Nations Water Conference to Accelerate the Implementati
+ on of Sustainable Development Goal 6: Ensure availability and sustainable 
+ management of water and sanitation for all
+LOCATION:United Arab Emirates
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 8 Dec 2
+ 026 to 10 Dec 2026
 URL:https://www.un.org/calendar/en/year?page=1
 END:VEVENT
 BEGIN:VEVENT
