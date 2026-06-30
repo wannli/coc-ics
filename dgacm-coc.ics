@@ -6911,6 +6911,18 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 2 Nov 2
 URL:https://www.un.org/calendar/en/year
 END:VEVENT
 BEGIN:VEVENT
+UID:a1dc6a7c@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261114
+SUMMARY:Human Rights Council\, Committee on Economic\, Social and Cultural 
+ Rights\, Eightieth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 2 Nov 2
+ 026 to 13 Nov 2026
+URL:https://www.un.org/calendar/en/year
+END:VEVENT
+BEGIN:VEVENT
 UID:145cd05f@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -6968,18 +6980,6 @@ SUMMARY:Conference of the High Contracting Parties to Protocol V to the Con
 LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 9 Nov 2
  026
-URL:https://www.un.org/calendar/en/year
-END:VEVENT
-BEGIN:VEVENT
-UID:5652fa50@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261121
-SUMMARY:Global Alliance of National Human Rights Institutions\, Sub-Committ
- ee on Accreditation\, Fourth session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 9 Nov 2
- 026 to 20 Nov 2026
 URL:https://www.un.org/calendar/en/year
 END:VEVENT
 BEGIN:VEVENT
@@ -13480,13 +13480,25 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Oct
 URL:https://www.un.org/calendar/en/year?page=1
 END:VEVENT
 BEGIN:VEVENT
-UID:73f3c8b6@dgacm-coc-ics.local
+UID:5652fa50@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261121
+SUMMARY:Global Alliance of National Human Rights Institutions\, Sub-Committ
+ ee on Accreditation\, Fourth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 9 Nov 2
+ 026 to 20 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=1
+END:VEVENT
+BEGIN:VEVENT
+UID:c3eca254@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261121
 SUMMARY:UNFCCC\, Conference of the Parties to the Convention and meetings o
  f subsidiary bodies\, Thirty-first session
-LOCATION:Antalya
+LOCATION:Antalya\, Türkiye
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 9 Nov 2
  026 to 20 Nov 2026
 URL:https://www.un.org/calendar/en/year?page=1
@@ -13590,18 +13602,6 @@ SUMMARY:Human Rights Council\, Working Group on the use of mercenaries as a
   means of violating human rights and impeding the exercise of the right of
   peoples to self-determination\, Fifty-ninth session
 LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 16 Nov 
- 2026 to 20 Nov 2026
-URL:https://www.un.org/calendar/en/year?page=1
-END:VEVENT
-BEGIN:VEVENT
-UID:f5219c50@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261121
-SUMMARY:IAEA\, Board of Governors\, Technical Assistance and Cooperation Co
- mmittee
-LOCATION:Vienna
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 16 Nov 
  2026 to 20 Nov 2026
 URL:https://www.un.org/calendar/en/year?page=1
@@ -18121,6 +18121,30 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 15 Dec
 URL:https://www.un.org/calendar/en/year?page=2
 END:VEVENT
 BEGIN:VEVENT
+UID:e2cc683a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:Security Council Committee pursuant to resolution 2713 (2023) conce
+ rning Al-Shabaab
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 1 Jan 2
+ 026 to 31 Dec 2026
+URL:https://www.un.org/calendar/en/year?page=2
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd82f8a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+SUMMARY:Security Council\, Informal Working Group on General United Nations
+  Security Council Sanctions Issues
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 1 Jan 2
+ 026 to 31 Dec 2026
+URL:https://www.un.org/calendar/en/year?page=2
+END:VEVENT
+BEGIN:VEVENT
 UID:15de50ac@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20260127
@@ -18914,6 +18938,18 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Oct
 URL:https://www.un.org/calendar/en/year?page=2
 END:VEVENT
 BEGIN:VEVENT
+UID:f5219c50@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+SUMMARY:IAEA\, Board of Governors\, Technical Assistance and Cooperation Co
+ mmittee
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 16 Nov 
+ 2026 to 20 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=2
+END:VEVENT
+BEGIN:VEVENT
 UID:5a91697@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -19020,19 +19056,6 @@ SUMMARY:UNIDO\, Industrial Development Board\, Fifty-fourth session
 LOCATION:Vienna
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
  2026 to 25 Nov 2026
-URL:https://www.un.org/calendar/en/year?page=2
-END:VEVENT
-BEGIN:VEVENT
-UID:cfee8443@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261128
-SUMMARY:Committee against Torture\, Subcommittee on Prevention of Torture a
- nd Other Cruel\, Inhuman or Degrading Treatment or Punishment\, Fifty-eigh
- th session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
- 2026 to 27 Nov 2026
 URL:https://www.un.org/calendar/en/year?page=2
 END:VEVENT
 BEGIN:VEVENT
@@ -22060,6 +22083,19 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Oct
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:cfee8443@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Committee against Torture\, Subcommittee on Prevention of Torture a
+ nd Other Cruel\, Inhuman or Degrading Treatment or Punishment\, Fifty-eigh
+ th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
+ 2026 to 27 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:b1f3157@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261123
@@ -22164,18 +22200,6 @@ SUMMARY:ITU Council\, Extraordinary session
 LOCATION:Qatar
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
  2026
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:f8e6e0fb@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261205
-SUMMARY:Human Rights Council\, Working Group of Experts on People of Africa
- n Descent\, Thirty-ninth session (To be confirmed)
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
- 2026 to 4 Dec 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -22927,6 +22951,17 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:74704445@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260711
+SUMMARY:UNCITRAL\, Commission\, Fifty-ninth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jun 
+ 2026 to 10 Jul 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:e06adda6@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20260629
@@ -22983,6 +23018,18 @@ SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
 LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun 
  2026 to 8 Jul 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e6e0fb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:Human Rights Council\, Working Group of Experts on People of Africa
+ n Descent\, Thirty-ninth session (To be confirmed)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
+ 2026 to 4 Dec 2026
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
