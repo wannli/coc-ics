@@ -19045,6 +19045,42 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov
 URL:https://www.un.org/calendar/en/year?page=2
 END:VEVENT
 BEGIN:VEVENT
+UID:dd633aee@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220305
+SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
+ y Organization\, Working Group B and informal/expert meetings\, Fifty-eigh
+ th session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Feb 
+ 2022 to 4 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:389d5364@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220312
+SUMMARY:Commission on the Limits of the Continental Shelf\, Fifty-fourth se
+ ssion
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Feb 
+ 2022 to 11 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:831bc4be@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220319
+SUMMARY:ICAO\, Council Phase\, 225th session
+LOCATION:Montreal
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Feb 
+ 2022 to 18 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:5cd05e66@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20220222
@@ -19054,6 +19090,52 @@ SUMMARY:Special Committee on the Charter of the United Nations and on the S
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 Feb 
  2022 to 2 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b81fffbe@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220226
+SUMMARY:United Nations Joint Staff Pension Board\, Seventieth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2022 to 25 Feb 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a1b09d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220303
+SUMMARY:UNEP\, United Nations Environment Assembly\, Resumed fifth session
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Feb 
+ 2022 to 2 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:69e35107@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220305
+SUMMARY:Committee on the Elimination of Discrimination against Women\, Pre-
+ sessional Working Group\, Eighty-third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Feb 
+ 2022 to 4 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc45788@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220305
+SUMMARY:International Independent Expert Mechanism to Advance Racial Justic
+ e and Equality in Law Enforcement\, First session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Feb 
+ 2022 to 4 Mar 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19069,25 +19151,14 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Feb
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a1b09d@dgacm-coc-ics.local
+UID:f3e82079@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20220228
-DTEND;VALUE=DATE:20220303
-SUMMARY:UNEP\, United Nations Environment Assembly\, Resumed fifth session
-LOCATION:Nairobi
+DTEND;VALUE=DATE:20220305
+SUMMARY:WFP\, Executive Board\, First regular session
+LOCATION:Rome
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Feb 
- 2022 to 2 Mar 2022
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:2e9b11fc@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20220329
-DTEND;VALUE=DATE:20220401
-SUMMARY:UN-Habitat\, Executive Board\, First regular session
-LOCATION:Nairobi
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Mar 
- 2022 to 31 Mar 2022
+ 2022 to 4 Mar 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19102,6 +19173,111 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Mar
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:5df3666c@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220409
+SUMMARY:Committee on Enforced Disappearances\, Twenty-second session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Mar 
+ 2022 to 8 Apr 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a4945e99@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220409
+SUMMARY:Committee on the Peaceful Uses of Outer Space\, Legal Subcommittee\
+ , Sixty-fifth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Mar 
+ 2022 to 8 Apr 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e8fc8f@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220409
+SUMMARY:Committee on the Protection of the Rights of All Migrant Workers an
+ d Members of Their Families\, Thirty-fourth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Mar 
+ 2022 to 8 Apr 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9b11fc@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220329
+DTEND;VALUE=DATE:20220401
+SUMMARY:UN-Habitat\, Executive Board\, First regular session
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Mar 
+ 2022 to 31 Mar 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:23b234bb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220330
+DTEND;VALUE=DATE:20220409
+SUMMARY:Human Rights Council\, Working Group on Arbitrary Detention\, Ninet
+ y-third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Mar 
+ 2022 to 8 Apr 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:45ec800a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220427
+DTEND;VALUE=DATE:20220428
+SUMMARY:Committee on Conferences\, Organizational session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:79b7295a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220528
+SUMMARY:Open-ended Working Group established pursuant to General Assembly r
+ esolution 76/233 to elaborate a set of political commitments as a new glob
+ al framework that will address existing gaps in through-life ammunition ma
+ nagement\, First session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 May 
+ 2022 to 27 May 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:808458e5@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220604
+SUMMARY:International Narcotics Control Board\, 134th session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 May 
+ 2022 to 3 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a777e096@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220625
+SUMMARY:ICAO\, Council Phase\, 226th session
+LOCATION:Montreal
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 May 
+ 2022 to 24 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:bc4b95d2@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20220526
@@ -19110,6 +19286,30 @@ SUMMARY:UNEP\, Committee of Permanent Representatives\, 158th session
 LOCATION:Nairobi
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 May 
  2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e752ad@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220526
+DTEND;VALUE=DATE:20220528
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group of Government Experts on Tec
+ hnical Assistance\, Thirteenth session (2.5 days)
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 May 
+ 2022 to 27 May 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7795345b@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220527
+DTEND;VALUE=DATE:20220612
+SUMMARY:ILO\, International Labour Conference\, 110th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May 
+ 2022 to 11 Jun 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19124,15 +19324,142 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:836ce169@dgacm-coc-ics.local
+UID:df198233@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20220627
-DTEND;VALUE=DATE:20220629
-SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
- y Organization\, Fifty-eighth session
+DTSTART;VALUE=DATE:20220530
+DTEND;VALUE=DATE:20220611
+SUMMARY:Ad Hoc Committee to Elaborate a Comprehensive International Convent
+ ion on Countering the Use of Information and Communications Technologies f
+ or Criminal Purposes\, Second session
 LOCATION:Vienna
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
- 2022 to 28 Jun 2022
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
+ 2022 to 10 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8c13f7@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220531
+DTEND;VALUE=DATE:20220604
+SUMMARY:Meeting of the Chairpersons of the Human Rights Treaty Bodies\, Thi
+ rty-fourth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 May 
+ 2022 to 3 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef01e46@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220531
+DTEND;VALUE=DATE:20220702
+SUMMARY:Committee for Programme and Coordination\, Sixty-second session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 May 
+ 2022 to 1 Jul 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:36eb5fde@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220620
+DTEND;VALUE=DATE:20220625
+SUMMARY:Commission on Narcotic Drugs\, Heads of National Drug Law Enforceme
+ nt Agencies\, Europe\, Fourteenth meeting (To be confirmed)
+LOCATION:Venue to be determined
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2022 to 24 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:310832a1@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220620
+DTEND;VALUE=DATE:20220625
+SUMMARY:Human Rights Committee\, Pre-sessional Working Group on Communicati
+ ons\, 135th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2022 to 24 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:99820ed3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220620
+DTEND;VALUE=DATE:20220625
+SUMMARY:WFP\, Executive Board\, Annual session
+LOCATION:Rome
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2022 to 24 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:2eefec1e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220620
+DTEND;VALUE=DATE:20220625
+SUMMARY:WMO\, Executive Council\, Seventy-fifth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2022 to 24 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:21710bb6@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220620
+DTEND;VALUE=DATE:20220702
+SUMMARY:UNCTAD\, Trade and Development Board\, Sixty-ninth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2022 to 1 Jul 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:4e513dd3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220621
+DTEND;VALUE=DATE:20220623
+SUMMARY:UN-Women\, Executive Board\, Annual session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Jun 
+ 2022 to 22 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:f0de3024@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220621
+DTEND;VALUE=DATE:20220623
+SUMMARY:UNIDO\, Programme and Budget Committee\, Thirty-eighth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Jun 
+ 2022 to 22 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:623c2a6d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220621
+DTEND;VALUE=DATE:20220624
+SUMMARY:Economic and Social Council\, Humanitarian affairs segment
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Jun 
+ 2022 to 23 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bc8633@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220623
+DTEND;VALUE=DATE:20220624
+SUMMARY:Ad Hoc Committee of the General Assembly for the Announcement of Vo
+ luntary Contributions to the United Nations Relief and Works Agency for Pa
+ lestine Refugees in the Near East
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun 
+ 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19148,51 +19475,6 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:a0f4d70f@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20220627
-DTEND;VALUE=DATE:20220707
-SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixti
- eth session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
- 2022 to 6 Jul 2022
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:4e513dd3@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20220621
-DTEND;VALUE=DATE:20220623
-SUMMARY:UN-Women\, Executive Board\, Annual session
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Jun 
- 2022 to 22 Jun 2022
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:989a297d@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20220627
-DTEND;VALUE=DATE:20220716
-SUMMARY:UNCITRAL\, Fifty-fifth session
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
- 2022 to 15 Jul 2022
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:21710bb6@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20220620
-DTEND;VALUE=DATE:20220702
-SUMMARY:UNCTAD\, Trade and Development Board\, Sixty-ninth session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
- 2022 to 1 Jul 2022
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
 UID:43aabe9@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20220725
@@ -19204,15 +19486,49 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Jul
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:444e0fbb@dgacm-coc-ics.local
+UID:1925af24@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20221031
+DTSTART;VALUE=DATE:20220929
 DTEND;VALUE=DATE:20221105
-SUMMARY:UNCITRAL\, Working Group IV (Electronic Commerce)\, Sixty-fourth se
- ssion
-LOCATION:Vienna
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+SUMMARY:General Assembly\, First Committee\, Seventy-seventh session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep 
  2022 to 4 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:6aeef4e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220929
+DTEND;VALUE=DATE:20221112
+SUMMARY:General Assembly\, Fourth Committee\, Seventy-seventh session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep 
+ 2022 to 11 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7845583e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220929
+DTEND;VALUE=DATE:20221119
+SUMMARY:General Assembly\, Third Committee\, Seventy-seventh session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep 
+ 2022 to 18 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:11392643@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221024
+DTEND;VALUE=DATE:20221029
+SUMMARY:Open-ended intergovernmental working group to elaborate a legally b
+ inding instrument on transnational corporations and other business enterpr
+ ises with respect to human rights\, Eighth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Oct 
+ 2022 to 28 Oct 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19228,28 +19544,180 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Oct
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:66a3c78@dgacm-coc-ics.local
+UID:ef7fa4cb@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20221128
-DTEND;VALUE=DATE:20221217
-SUMMARY:Review Conference of the States Parties to the Convention on the Pr
- ohibition of the Development\, Production and Stockpiling of Bacteriologic
- al (Biological) and Toxin Weapons and on Their Destruction\, Ninth session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
- 2022 to 16 Dec 2022
+DTSTART;VALUE=DATE:20221024
+DTEND;VALUE=DATE:20221029
+SUMMARY:UPU\, Council of Administration\, Second regular session
+LOCATION:Bern
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Oct 
+ 2022 to 28 Oct 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:e861d050@dgacm-coc-ics.local
+UID:2ce94749@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221025
+DTEND;VALUE=DATE:20221029
+SUMMARY:Commission on Narcotic Drugs\, Meeting of Heads of National Drug La
+ w Enforcement Agencies\, Asia and the Pacific\, Forty-fourth session
+LOCATION:Bangkok
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Oct 
+ 2022 to 28 Oct 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e585f893@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221103
+SUMMARY:Human Rights Council\, Expert Mechanism on the Right to Development
+ \, Sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2022 to 2 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:877cdbbf@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221105
+SUMMARY:Committee on the Elimination of Discrimination against Women\, Pre-
+ sessional Working Group\, Eighty-fifth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2022 to 4 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:444e0fbb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221105
+SUMMARY:UNCITRAL\, Working Group IV (Electronic Commerce)\, Sixty-fourth se
+ ssion
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2022 to 4 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:60aca115@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221111
+SUMMARY:ILO\, Governing Body and its committees\, 346th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2022 to 10 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:304653e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221112
+SUMMARY:International Seabed Authority\, Legal and Technical Commission\, T
+ hird part of the twenty-seventh session (To be confirmed)
+LOCATION:Kingston
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2022 to 11 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:9b49972b@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221126
+SUMMARY:Committee against Torture\, Seventy-fifth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2022 to 25 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:9456b1d3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221123
+DTEND;VALUE=DATE:20221126
+SUMMARY:UNWTO\, Executive Council\, 117th session
+LOCATION:Marrakesh
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
+ 2022 to 25 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:9d014890@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221124
+DTEND;VALUE=DATE:20221126
+SUMMARY:Human Rights Council\, Forum on human rights\, democracy and the ru
+ le of law\, Fourth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
+ 2022 to 25 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:21a90b60@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20221128
-DTEND;VALUE=DATE:20221207
-SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
- -first session
+DTEND;VALUE=DATE:20221130
+SUMMARY:Panel of External Auditors of the United Nations\, the Specialized 
+ Agencies and the International Atomic Energy Agency\, Sixty-second regular
+  session
+LOCATION:Santiago
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 29 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ed663244@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221201
+SUMMARY:Human Rights Council\, Forum on Business and Human Rights\, Elevent
+ h session
 LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
- 2022 to 6 Dec 2022
+ 2022 to 30 Nov 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7c08d3a6@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221203
+SUMMARY:Conference of the States Parties to the Convention on the Prohibiti
+ on of the Development\, Production\, Stockpiling and Use of Chemical Weapo
+ ns and on Their Destruction\, Twenty-seventh session
+LOCATION:The Hague
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 2 Dec 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:4d90dc22@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221203
+SUMMARY:Human Rights Council\, Working Group of Experts on People of Africa
+ n Descent\, Thirty-first session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 2 Dec 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:761f84c4@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221203
+SUMMARY:IMO\, Council\, 128th session
+LOCATION:London
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 2 Dec 2022
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19265,6 +19733,30 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:90f5acea@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221203
+SUMMARY:United Nations Voluntary Trust Fund on Contemporary Forms of Slaver
+ y\, Board of Trustees\, Twenty-seventh session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 2 Dec 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e861d050@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221207
+SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
+ -first session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 6 Dec 2022
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:77132af8@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20230227
@@ -19273,6 +19765,74 @@ SUMMARY:WMO\, Executive Council\, Seventy-sixth session
 LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Feb 
  2023 to 3 Mar 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:78940996@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230227
+DTEND;VALUE=DATE:20230318
+SUMMARY:ICAO\, Council Phase\, 228th session
+LOCATION:Montreal\, Canada
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Feb 
+ 2023 to 17 Mar 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ddd534@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230227
+DTEND;VALUE=DATE:20230325
+SUMMARY:Human Rights Committee\, 137th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Feb 
+ 2023 to 24 Mar 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:efe3d3eb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230227
+DTEND;VALUE=DATE:20230405
+SUMMARY:Human Rights Council\, Fifty-second session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Feb 
+ 2023 to 4 Apr 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:2d565eae@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230228
+DTEND;VALUE=DATE:20230304
+SUMMARY:Statistical Commission\, Fifty-fourth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Feb 
+ 2023 to 3 Mar 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1bcb4521@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230327
+DTEND;VALUE=DATE:20230406
+SUMMARY:Human Rights Council\, Working Group on Arbitrary Detention\, Ninet
+ y-sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Mar 
+ 2023 to 5 Apr 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a5896d0e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230327
+DTEND;VALUE=DATE:20230407
+SUMMARY:Committee on the Protection of the Rights of All Migrant Workers an
+ d Members of Their Families\, Thirty-sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Mar 
+ 2023 to 6 Apr 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19287,26 +19847,101 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Mar
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:951cbb8a@dgacm-coc-ics.local
+UID:23f00e9b@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20230530
-DTEND;VALUE=DATE:20230603
-SUMMARY:Meeting of the Chairpersons of the Human Rights Treaty Bodies\, Thi
- rty-fifth session
+DTSTART;VALUE=DATE:20230331
+DTEND;VALUE=DATE:20230401
+SUMMARY:Economic and Social Council\, Special meeting of the Council to con
+ sider international cooperation in tax matters
 LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Mar 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:97f9bccc@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230520
+SUMMARY:General Assembly\, High-level meeting of the General Assembly on th
+ e midterm review of the implementation of the Sendai Framework
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 May 
+ 2023 to 19 May 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:428fa967@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230521
+DTEND;VALUE=DATE:20230531
+SUMMARY:WHO\, World Health Assembly\, Seventy-sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 May 
+ 2023 to 30 May 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:469148ef@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230527
+SUMMARY:Commission on Crime Prevention and Criminal Justice\, Thirty-second
+  session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 May 
+ 2023 to 26 May 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:57d93b74@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230527
+SUMMARY:Resumed Review Conference on the Agreement for the Implementation o
+ f the Provisions of the United Nations Convention on the Law of the Sea of
+  10 December 1982 relating to the Conservation and Management of Straddlin
+ g Fish Stocks and Highly Migratory Fish Stocks
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 May 
+ 2023 to 26 May 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:367f84bf@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230603
+SUMMARY:Ad Hoc Committee of the Human Rights Council on the Elaboration of 
+ Complementary Standards to the International Convention on the Elimination
+  of All Forms of Racial Discrimination\, Thirteenth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 May 
  2023 to 2 Jun 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:b4f77d13@dgacm-coc-ics.local
+UID:5f9b3d88@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20230530
-DTEND;VALUE=DATE:20230603
-SUMMARY:Permanent Forum of People of African Descent\, Second session
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230826
+SUMMARY:Advisory Committee on Administrative and Budgetary Questions\, Spri
+ ng session
 LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
- 2023 to 2 Jun 2023
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 May 
+ 2023 to 25 Aug 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a8391945@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230523
+DTEND;VALUE=DATE:20230526
+SUMMARY:Economic and Social Council\, Operational activities for developmen
+ t segment
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 May 
+ 2023 to 25 May 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19323,15 +19958,43 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 May
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:597e8254@dgacm-coc-ics.local
+UID:93a4fc1c@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20230622
-DTEND;VALUE=DATE:20230623
-SUMMARY:States parties to the International Convention on the Elimination o
- f All Forms of Racial Discrimination\, Thirtieth meeting
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 Jun 
- 2023
+DTSTART;VALUE=DATE:20230524
+DTEND;VALUE=DATE:20230527
+SUMMARY:Special Committee on the Situation with regard to the Implementatio
+ n of the Declaration on the Granting of Independence to Colonial Countries
+  and Peoples\, Regional seminar to review the situation in Non-Self-Govern
+ ing Territories under the Fourth International Decade for the Eradication 
+ of Colonialism (3 days)
+LOCATION:Bali
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 May 
+ 2023 to 26 May 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:246001f4@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230529
+DTEND;VALUE=DATE:20230531
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group of Government Experts on Tec
+ hnical Assistance\, Fourteenth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 May 
+ 2023 to 30 May 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed259d3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230624
+SUMMARY:United Nations Scientific Committee on the Effects of Atomic Radiat
+ ion\, Seventieth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Jun 
+ 2023 to 23 Jun 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19346,6 +20009,97 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Jun
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:d680265d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230715
+SUMMARY:Human Rights Council\, Fifty-third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Jun 
+ 2023 to 14 Jul 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b0dc7a18@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+SUMMARY:Economic and Social Council\, Transition from relief to development
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b4a8496d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230622
+SUMMARY:UNRWA\, Advisory Commission
+LOCATION:Beirut
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 20 Jun 
+ 2023 to 21 Jun 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c873178f@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230624
+SUMMARY:Advisory Board on Disarmament Matters\, Eightieth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Jun 
+ 2023 to 23 Jun 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e193ce@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230624
+SUMMARY:Economic and Social Council\, Substantive session\, Humanitarian Af
+ fairs Segment
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 21 Jun 
+ 2023 to 23 Jun 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:597e8254@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230623
+SUMMARY:States parties to the International Convention on the Elimination o
+ f All Forms of Racial Discrimination\, Thirtieth meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 Jun 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c1240c88@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230701
+SUMMARY:WFP\, Executive Board\, Annual session
+LOCATION:Rome
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Jun 
+ 2023 to 30 Jun 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:92efbcca@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230708
+SUMMARY:International Seabed Authority\, Legal and Technical Commission (Se
+ cond part)
+LOCATION:Kingston
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Jun 
+ 2023 to 7 Jul 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:b5be057@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20230731
@@ -19357,6 +20111,66 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Jul
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:5c7bd7fb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230731
+DTEND;VALUE=DATE:20230805
+SUMMARY:Human Rights Council\, Working Group on the use of mercenaries as a
+  means of violating human rights and impeding the exercise of the right of
+  peoples to self-determination\, Forty-ninth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Jul 
+ 2023 to 4 Aug 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05b226@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230731
+DTEND;VALUE=DATE:20230812
+SUMMARY:First Preparatory Committee for the Eleventh Review Conference of t
+ he Parties to the Non-Proliferation Treaty
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Jul 
+ 2023 to 11 Aug 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ceca5dcc@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230731
+DTEND;VALUE=DATE:20230916
+SUMMARY:Conference on Disarmament\, Third part
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Jul 
+ 2023 to 15 Sep 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:406ff00c@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230922
+DTEND;VALUE=DATE:20230923
+SUMMARY:General Assembly\, High-level meeting on the fight against tubercul
+ osis
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 Sep 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:84d938a3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230925
+DTEND;VALUE=DATE:20230930
+SUMMARY:Committee on the Rights of the Child\, Pre-sessional Working Group\
+ , Ninety-sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Sep 
+ 2023 to 29 Sep 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:49aabae@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20230925
@@ -19365,6 +20179,146 @@ SUMMARY:IAEA\, General Conference\, Sixty-seventh session
 LOCATION:Vienna
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Sep 
  2023 to 29 Sep 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:26deb47e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230925
+DTEND;VALUE=DATE:20230930
+SUMMARY:UNCITRAL\, Working Group I (Warehouse receipts)\, Fortieth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Sep 
+ 2023 to 29 Sep 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ca155a26@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230925
+DTEND;VALUE=DATE:20231014
+SUMMARY:Committee on Economic\, Social and Cultural Rights\, Seventy-fourth
+  session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Sep 
+ 2023 to 13 Oct 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:f042ef89@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230926
+DTEND;VALUE=DATE:20230927
+SUMMARY:High-level political forum on sustainable development convened unde
+ r the auspices of the General Assembly (Sustainable Development Goals Summ
+ it)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Sep 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8d9090@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230926
+DTEND;VALUE=DATE:20230930
+SUMMARY:Commission on Narcotic Drugs\, Meeting of Heads of National Drug La
+ w Enforcement Agencies\, Africa\, Thirty-first session
+LOCATION:Abuja
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Sep 
+ 2023 to 29 Sep 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:49fd85bf@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230926
+DTEND;VALUE=DATE:20230930
+SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
+ y Organization\, Advisory Group\, Sixty-first session (To be confirmed)
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Sep 
+ 2023 to 29 Sep 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b55db718@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230928
+DTEND;VALUE=DATE:20231104
+SUMMARY:General Assembly\, First Committee\, Seventy-eighth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Sep 
+ 2023 to 3 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c53d50@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230928
+DTEND;VALUE=DATE:20231110
+SUMMARY:General Assembly\, Fourth Committee\, Seventy-eighth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Sep 
+ 2023 to 9 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:182601c7@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231030
+DTEND;VALUE=DATE:20231104
+SUMMARY:Committee on the Elimination of Discrimination against Women\, Pre-
+ sessional Working Group\, Eighty-eighth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2023 to 3 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:21ba9347@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231030
+DTEND;VALUE=DATE:20231104
+SUMMARY:Human Rights Council\, Working Group on Situations\, Thirty-second 
+ session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2023 to 3 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:68814e73@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231030
+DTEND;VALUE=DATE:20231110
+SUMMARY:ILO\, Governing Body and its committees\, 349th session (To be conf
+ irmed)
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2023 to 9 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1561af67@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231030
+DTEND;VALUE=DATE:20231118
+SUMMARY:ICAO\, Council Phase\, 230th session
+LOCATION:Montreal\, Canada
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2023 to 17 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7df0ac79@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231030
+DTEND;VALUE=DATE:20231125
+SUMMARY:Committee against Torture\, Seventy-eighth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2023 to 24 Nov 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19390,26 +20344,39 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:c6d8cbfa@dgacm-coc-ics.local
+UID:d5e891e7@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20231127
-DTEND;VALUE=DATE:20231207
-SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
- -third session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
- 2023 to 6 Dec 2023
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231118
+SUMMARY:International Narcotics Control Board\, 138th session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2023 to 17 Nov 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:63925c54@dgacm-coc-ics.local
+UID:61a37bc@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20231128
-DTEND;VALUE=DATE:20231201
-SUMMARY:UN-Habitat\, Executive Board\, Third regular session (3 days)
-LOCATION:Nairobi
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
- 2023 to 30 Nov 2023
+DTSTART;VALUE=DATE:20231127
+DTEND;VALUE=DATE:20231202
+SUMMARY:Conference of the States Parties to the Convention on the Prohibiti
+ on of the Development\, Production\, Stockpiling and Use of Chemical Weapo
+ ns and on Their Destruction\, Twenty-eighth session
+LOCATION:The Hague
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
+ 2023 to 1 Dec 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:dc753aeb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231127
+DTEND;VALUE=DATE:20231202
+SUMMARY:Meeting of States Parties to the Treaty on the Prohibition of Nucle
+ ar Weapons\, Second meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
+ 2023 to 1 Dec 2023
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19425,18 +20392,6 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:6187a7c3@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20231130
-DTEND;VALUE=DATE:20231213
-SUMMARY:UNFCCC\, Conference of the Parties to the Convention and meetings o
- f subsidiary bodies\, Twenty-eighth session
-LOCATION:Dubai
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
- 2023 to 12 Dec 2023
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
 UID:4735c16f@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20231127
@@ -19445,6 +20400,102 @@ SUMMARY:UNIDO\, General Conference\, Twentieth session
 LOCATION:Vienna
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
  2023 to 1 Dec 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:3fec0e1e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231127
+DTEND;VALUE=DATE:20231202
+SUMMARY:United Nations Voluntary Trust Fund on Contemporary Forms of Slaver
+ y\, Board of Trustees\, Twenty-eighth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
+ 2023 to 1 Dec 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d8cbfa@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231127
+DTEND;VALUE=DATE:20231207
+SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
+ -third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
+ 2023 to 6 Dec 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:2e44c025@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231127
+DTEND;VALUE=DATE:20231209
+SUMMARY:Committee on the Protection of the Rights of All Migrant Workers an
+ d Members of Their Families\, Thirty-seventh session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
+ 2023 to 8 Dec 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:74f0baae@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231128
+DTEND;VALUE=DATE:20231129
+SUMMARY:Meeting of States parties to the United Nations Convention on the L
+ aw of the Sea\, Resumed thirty-third meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:63925c54@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231128
+DTEND;VALUE=DATE:20231201
+SUMMARY:UN-Habitat\, Executive Board\, Third regular session (3 days)
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2023 to 30 Nov 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:fec1e586@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231129
+DTEND;VALUE=DATE:20231130
+SUMMARY:Committee on the Exercise of the Inalienable Rights of the Palestin
+ ian People\, Special meeting in observance of the International Day of Sol
+ idarity with the Palestinian People
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Nov 
+ 2023
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:22f748d9@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240224
+SUMMARY:Preparatory Committee for the Fourth International Conference on Fi
+ nancing for Development\, Organizational session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Feb 
+ 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c3bdbddf@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240302
+SUMMARY:Human Rights Committee\, Pre-sessional Working Group on Communicati
+ ons\, 140th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Feb 
+ 2024 to 1 Mar 2024
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19470,6 +20521,89 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Feb
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:e82e4b67@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240330
+SUMMARY:General Assembly\, Fifth Committee\, First part of the resumed sess
+ ion (To be confirmed)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Feb 
+ 2024 to 29 Mar 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:77012592@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240406
+SUMMARY:Human Rights Council\, Fifty-fifth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Feb 
+ 2024 to 5 Apr 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:defb3222@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240227
+DTEND;VALUE=DATE:20240302
+SUMMARY:Statistical Commission\, Fifty-fifth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Feb 
+ 2024 to 1 Mar 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:6b707093@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240229
+DTEND;VALUE=DATE:20240302
+SUMMARY:Group of Governmental Experts on the Prevention of an Arms Race in 
+ Outer Space\, Open-ended intersessional informal consultative meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Feb 
+ 2024 to 1 Mar 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:39ab543b@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240504
+SUMMARY:Human Rights Council\, Intergovernmental Working Group on the Effec
+ tive Implementation of the Durban Declaration and Programme of Action\, Tw
+ enty-second session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
+ 2024 to 3 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc53333@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240504
+SUMMARY:Human Rights Council\, Working Group on discrimination against wome
+ n and girls\, Fortieth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
+ 2024 to 3 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:6807ebaa@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240504
+SUMMARY:Human Rights Council\, Working Group on Situations\, Thirty-third s
+ ession
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
+ 2024 to 3 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:9121d649@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20240429
@@ -19479,6 +20613,52 @@ SUMMARY:UNCTAD\, Investment\, Enterprise and Development Commission\, Fourt
 LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
  2024 to 3 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e2230a37@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240511
+SUMMARY:Committee on Information\, Forty-sixth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
+ 2024 to 10 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:8a024001@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240511
+SUMMARY:Human Rights Council\, Working Group on the Universal Periodic Revi
+ ew\, Forty-sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
+ 2024 to 10 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2d2f57@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240601
+SUMMARY:International Law Commission\, Seventy-fifth session (First part)
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
+ 2024 to 31 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ce350db2@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240503
+SUMMARY:Human Rights Council\, Expert Mechanism on the Right to Development
+ \, Ninth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Apr 
+ 2024 to 2 May 2024
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19495,6 +20675,29 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:b605d898@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240527
+DTEND;VALUE=DATE:20240531
+SUMMARY:Fourth International Conference on Small Island Developing States
+LOCATION:Saint John’s
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May 
+ 2024 to 30 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b54e6e57@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240527
+DTEND;VALUE=DATE:20240601
+SUMMARY:Committee on the Rights of the Child\, Pre-sessional Working Group\
+ , Ninety-eighth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May 
+ 2024 to 31 May 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:ca1dcb39@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20240527
@@ -19506,28 +20709,40 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:bc1116fb@dgacm-coc-ics.local
+UID:b388ea4e@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20240624
-DTEND;VALUE=DATE:20240627
-SUMMARY:PrepCom for the Entry into Force of the Agreement under the UNCLOS 
- and Sustainable Use of Marine Biological Diversity of Areas beyond Nationa
- l Jurisdiction and the Convening of the First Meeting of the Conference of
-  the Parties to the Agreement\, Organizational meeting
+DTSTART;VALUE=DATE:20240528
+DTEND;VALUE=DATE:20240606
+SUMMARY:Committee on Non-Governmental Organizations\, Resumed regular sessi
+ on
 LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
- 2024 to 26 Jun 2024
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 May 
+ 2024 to 5 Jun 2024
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:ff58ed3a@dgacm-coc-ics.local
+UID:1a1dc20c@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20240618
-DTEND;VALUE=DATE:20240622
-SUMMARY:Third United Nations Conference on Landlocked Developing Countries
-LOCATION:Kigali
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
- 2024 to 21 Jun 2024
+DTSTART;VALUE=DATE:20240529
+DTEND;VALUE=DATE:20240530
+SUMMARY:Meeting of States Parties to the International Covenant on Civil an
+ d Political Rights\, Fortieth meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 May 
+ 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:3f51bc6c@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240601
+SUMMARY:Executive Boards of UNDP/UNFPA/ UNOPS\, UNICEF\, WFP and UN-Women\,
+  Joint meeting of the Executive Boards of UNDP/UNFPA/ UNOPS\, UNICEF\, WFP
+  and UN-Women
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 May 
+ 2024
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19542,14 +20757,134 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:11099f13@dgacm-coc-ics.local
+UID:f34db097@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240622
+SUMMARY:Human Rights Council\, Intergovernmental Working Group on the Effec
+ tive Implementation of the Durban Declaration and Programme of Action\, Te
+ nth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2024 to 21 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3f4971@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240622
+SUMMARY:Meeting of the Chairs of the human rights treaty bodies\, Thirty-si
+ xth session (To be confirmed)
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2024 to 21 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ff58ed3a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240622
+SUMMARY:Third United Nations Conference on Landlocked Developing Countries
+LOCATION:Kigali
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2024 to 21 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7da0a541@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240622
+SUMMARY:United Nations Open-ended Informal Consultative Process on Oceans a
+ nd the Law of the Sea\, Twenty-fourth meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2024 to 21 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:d73a9c06@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240629
+SUMMARY:United Nations Conference to Review Progress Made in the Implementa
+ tion of the Programme of Action to Prevent\, Combat and Eradicate the Illi
+ cit Trade in Small Arms and Light Weapons in All Its Aspects\, Fourth revi
+ ew conference
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2024 to 28 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7f8f124d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240713
+SUMMARY:Human Rights Council\, Fifty-sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2024 to 12 Jul 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:19367a34@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240619
+DTEND;VALUE=DATE:20240629
+SUMMARY:Committee on the Peaceful Uses of Outer Space\, Sixty-seventh sessi
+ on
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Jun 
+ 2024 to 28 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e744f7a7@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20240624
-DTEND;VALUE=DATE:20240713
-SUMMARY:UNCITRAL\, Fifty-seventh session
+DTEND;VALUE=DATE:20240625
+SUMMARY:Economic and Social Council\, Transition from relief to development
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
- 2024 to 12 Jul 2024
+ 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:fbdb94ce@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240627
+SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
+ y Organization\, Sixty-second session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
+ 2024 to 26 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c26126a1@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240725
+DTEND;VALUE=DATE:20240726
+SUMMARY:Economic and Social Council\, Organizational session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Jul 
+ 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:9ece07ea@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240729
+DTEND;VALUE=DATE:20240803
+SUMMARY:International Seabed Authority\, Assembly\, Second part of the twen
+ ty-ninth session
+LOCATION:Kingston
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jul 
+ 2024 to 2 Aug 2024
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19561,6 +20896,66 @@ SUMMARY:United Nations Joint Staff Pension Board\, Seventy-eighth session
 LOCATION:Bangkok
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jul 
  2024 to 2 Aug 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1883aa56@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240729
+DTEND;VALUE=DATE:20240810
+SUMMARY:Ad Hoc Committee to Elaborate a Comprehensive International Convent
+ ion on Countering the Use of Information and Communications Technologies f
+ or Criminal Purposes\, Resumed concluding session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jul 
+ 2024 to 9 Aug 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:85c3cdd6@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240729
+DTEND;VALUE=DATE:20240817
+SUMMARY:Ad Hoc Committee to draft terms of reference for a UN framework con
+ vention on international tax cooperation\, Second session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jul 
+ 2024 to 16 Aug 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:174c9fa1@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240729
+DTEND;VALUE=DATE:20240914
+SUMMARY:Conference on Disarmament\, Third part
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jul 
+ 2024 to 13 Sep 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9a348b@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241005
+SUMMARY:UNCITRAL\, Working Group II (Dispute Settlement)\, Eightieth sessio
+ n
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Sep 
+ 2024 to 4 Oct 2024
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:49cc6c57@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241102
+SUMMARY:Human Rights Council\, intersessional forum on economic\, social an
+ d cultural rights (Social Forum)\, Sixteenth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 31 Oct 
+ 2024 to 1 Nov 2024
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19576,6 +20971,18 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Feb
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:42bc22fe@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250322
+SUMMARY:Commission on the Limits of the Continental Shelf\, Sixty-third ses
+ sion
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Feb 
+ 2025 to 21 Mar 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:5117d98a@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20250218
@@ -19585,6 +20992,28 @@ SUMMARY:Special Committee on the Charter of the United Nations and on the S
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Feb 
  2025 to 26 Feb 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:59482900@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250219
+DTEND;VALUE=DATE:20250221
+SUMMARY:United Nations Joint Staff Pension Board\, Seventy-ninth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Feb 
+ 2025 to 20 Feb 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4f1b62@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250219
+DTEND;VALUE=DATE:20250222
+SUMMARY:Advisory Board on Disarmament Matters\, Eighty-third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Feb 
+ 2025 to 21 Feb 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19599,60 +21028,207 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 19 Feb
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:c75c76b6@dgacm-coc-ics.local
+UID:d51f376f@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250428
-DTEND;VALUE=DATE:20250531
-SUMMARY:International Law Commission\, Seventy-sixth session (First part)
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
- 2025 to 30 May 2025
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250301
+SUMMARY:Committee for Development Policy\, Twenty-seventh session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2025 to 28 Feb 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:395a4731@dgacm-coc-ics.local
+UID:2083d6d8@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250301
+SUMMARY:Committee on the Elimination of Discrimination against Women\, Pre-
+ sessional Working Group\, Ninety-second session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2025 to 28 Feb 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:9bdf8e06@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250301
+SUMMARY:Human Rights Committee\, Pre-sessional Working Group on Communicati
+ ons\, 143rd session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2025 to 28 Feb 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:36250477@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250301
+SUMMARY:Human Rights Council\, Working Group on the rights of peasants and 
+ other people working in rural areas\, Third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2025 to 28 Feb 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a71f47e0@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:Committee for the United Nations Population Award\, First regular m
+ eeting (To be confirmed)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Mar 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:3a55c331@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:Economic and Social Council\, Special meeting of the Council to con
+ sider international cooperation in tax matters (To be confirmed)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Mar 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e701bc3a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250429
+SUMMARY:Committee for the United Nations Population Award\, Second regular 
+ meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:954169f8@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250430
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group on Firearms\, Twelfth sessio
+ n
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 29 Apr 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a97fb050@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250430
+SUMMARY:Economic and Social Council\, Annual Economic and Social Council fo
+ rum on financing for development follow-up\, including the special high-le
+ vel meeting of the Council with the World Bank\, IMF\, WTO and UNCTAD
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 29 Apr 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab99c2a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250502
+SUMMARY:Group of Independent Eminent Experts on the Implementation of the D
+ urban Declaration and Programme of Action\, Eleventh session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 1 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a0db3734@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250503
+SUMMARY:Human Rights Council\, Working Group on Enforced or Involuntary Dis
+ appearances\, 136th session (To be confirmed)
+LOCATION:Venue to be determined
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 2 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:90d8355a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250503
+SUMMARY:Human Rights Council\, Working Group on Situations\, Thirty-fifth s
+ ession
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 2 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:f044e25a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250503
+SUMMARY:UNCTAD\, Trade and Development Commission\, Fifteenth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 2 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5d4105@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250503
+SUMMARY:United Nations Group of Experts on Geographical Names\, Fourth sess
+ ion
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 2 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:49e7f717@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250510
-SUMMARY:Preparatory Committee for the 2026 Review Conference of the Parties
-  to the Treaty on the Non-Proliferation of Nuclear Weapons\, Third session
+SUMMARY:Committee on Information\, Forty-seventh session
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
  2025 to 9 May 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:1ba5eb00@dgacm-coc-ics.local
+UID:efa3459b@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250430
-DTEND;VALUE=DATE:20250502
-SUMMARY:Preparatory Committee for the Fourth International Conference on Fi
- nancing for Development\, Fourth session
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Apr 
- 2025 to 1 May 2025
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250510
+SUMMARY:Human Rights Council\, Working Group on the Universal Periodic Revi
+ ew\, Forty-ninth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 9 May 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:fe17940e@dgacm-coc-ics.local
+UID:f11b09aa@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250529
-DTEND;VALUE=DATE:20250531
-SUMMARY:UN-Habitat Assembly\, Resumed second session
-LOCATION:Nairobi
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 May 
- 2025 to 30 May 2025
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:6a37b75f@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250530
-DTEND;VALUE=DATE:20250531
-SUMMARY:UN-Habitat\, Executive Board\, Second regular session
-LOCATION:Nairobi
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
- 2025
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250529
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group of Government Experts on Tec
+ hnical Assistance\, Sixteenth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 May 
+ 2025 to 28 May 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19668,6 +21244,182 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 May
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:530cc099@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250531
+SUMMARY:Ad Hoc Committee of the Human Rights Council on the Elaboration of 
+ Complementary Standards to the International Convention on the Elimination
+  of All Forms of Racial Discrimination\, Fifteenth session (Second part)
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 May 
+ 2025 to 30 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce8bf99@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250606
+SUMMARY:International Law Seminar\, Fifty-ninth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 May 
+ 2025 to 5 Jun 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:f035c242@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250531
+SUMMARY:High-level Committee on South-South Cooperation\, Twenty-second ses
+ sion
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May 
+ 2025 to 30 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:65d22038@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250531
+SUMMARY:Human Rights Council\, Working Group on discrimination against wome
+ n and girls\, Forty-second session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 May 
+ 2025 to 30 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ad009391@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250530
+SUMMARY:Committee on Non-Governmental Organizations\, Resumed regular sessi
+ on
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 May 
+ 2025 to 29 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:308b18d0@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250530
+SUMMARY:WHO\, Executive Board\, 157th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 May 
+ 2025 to 29 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e4545b68@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250531
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group on International Cooperation
+ \, Sixteenth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 May 
+ 2025 to 30 May 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b78056c7@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250705
+SUMMARY:Committee on the Elimination of Discrimination against Women\, Nine
+ ty-first session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 16 Jun 
+ 2025 to 4 Jul 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7e7286@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250710
+SUMMARY:Human Rights Council\, Fifty-ninth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 16 Jun 
+ 2025 to 9 Jul 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2533d8@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250618
+SUMMARY:Economic and Social Council\, Transition from relief to development
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Jun 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7a606f94@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250620
+SUMMARY:UN-Women\, Executive Board\, Annual session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Jun 
+ 2025 to 19 Jun 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:796d6bb3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250621
+SUMMARY:High-level International Conference for the Peaceful Settlement of 
+ the Question of Palestine and the Implementation of the Two-State Solution
+ \, (To be confirmed)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Jun 
+ 2025 to 20 Jun 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:ed79fb45@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250628
+SUMMARY:ITU Council\, 2025 session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Jun 
+ 2025 to 27 Jun 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2a4da3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250621
+SUMMARY:Economic and Social Council\, Substantive session\, Humanitarian Af
+ fairs Segment
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 18 Jun 
+ 2025 to 20 Jun 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a20c878d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250624
+SUMMARY:UNEP\, Committee of Permanent Representatives\, 170th meeting
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:b73096e8@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20250623
@@ -19680,51 +21432,28 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:857b98d@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
-SUMMARY:States parties to the International Convention on the Protection of
-  the Rights of All Migrant Workers and Members of Their Families\, Twelfth
-  meeting
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
- 2025
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:3fd57a27@dgacm-coc-ics.local
+UID:fde904db@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250628
-SUMMARY:States parties to the United Nations Convention on the Law of the S
- ea\, Thirty-fifth meeting
+SUMMARY:Meeting of States on the Global Framework for Through-life Conventi
+ onal Ammunition Management\, Preparatory meeting
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun 
  2025 to 27 Jun 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:9645f51@dgacm-coc-ics.local
+UID:c8f4c349@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250630
-DTEND;VALUE=DATE:20250705
-SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
- -sixth session
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251004
+SUMMARY:Human Rights Council\, Working Group on the issue of human rights a
+ nd transnational corporations and other business enterprises\, Forty-secon
+ d session
 LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun 
- 2025 to 4 Jul 2025
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:7a606f94@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20250617
-DTEND;VALUE=DATE:20250620
-SUMMARY:UN-Women\, Executive Board\, Annual session
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 17 Jun 
- 2025 to 19 Jun 2025
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep 
+ 2025 to 3 Oct 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19740,25 +21469,26 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:b40cb486@dgacm-coc-ics.local
+UID:83953919@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20251030
-DTEND;VALUE=DATE:20251115
-SUMMARY:UNESCO\, General Conference\, Forty-third session (To be confirmed)
-LOCATION:Samarkand\, Uzbekistan
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
- 2025 to 14 Nov 2025
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251101
+SUMMARY:Human Rights Council\, Working Group on Situations\, Thirty-sixth s
+ ession
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Oct 
+ 2025 to 31 Oct 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:18824e2c@dgacm-coc-ics.local
+UID:55fae7c3@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20251030
+DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251101
-SUMMARY:United Nations System Chief Executives Board for Coordination\, Sec
- ond regular session
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+SUMMARY:Commission on Narcotic Drugs\, Meeting of Heads of National Drug La
+ w Enforcement Agencies\, Europe\, Sixteenth meeting
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Oct 
  2025 to 31 Oct 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
@@ -19774,26 +21504,76 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Oct
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:c753ea40@dgacm-coc-ics.local
+UID:e4b8fc8b@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20251124
-DTEND;VALUE=DATE:20251204
-SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
- -seventh session
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251101
+SUMMARY:Human Rights Council\, intersessional forum on economic\, social an
+ d cultural rights (Social Forum)\, Seventeenth session
 LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
- 2025 to 3 Dec 2025
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2025 to 31 Oct 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:5cd3971d@dgacm-coc-ics.local
+UID:18824e2c@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20251125
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251101
+SUMMARY:United Nations System Chief Executives Board for Coordination\, Sec
+ ond regular session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2025 to 31 Oct 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b40cb486@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251115
+SUMMARY:UNESCO\, General Conference\, Forty-third session (To be confirmed)
+LOCATION:Samarkand\, Uzbekistan
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Oct 
+ 2025 to 14 Nov 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c2a2ae@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251126
+SUMMARY:Panel of External Auditors of the United Nations\, the Specialized 
+ Agencies and the International Atomic Energy Agency\, Sixty-fifth regular 
+ session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
+ 2025 to 25 Nov 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:25335a30@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251127
-SUMMARY:UN-Habitat\, Executive Board\, Third regular session
-LOCATION:Nairobi
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Nov 
+SUMMARY:Human Rights Council\, Forum on Business and Human Rights\, Fourtee
+ nth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
  2025 to 26 Nov 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a4fa057f@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251129
+SUMMARY:Conference of the States Parties to the Convention on the Prohibiti
+ on of the Development\, Production\, Stockpiling and Use of Chemical Weapo
+ ns and on Their Destruction\, Thirtieth session
+LOCATION:The Hague\, Netherlands (Kingdom of the)
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
+ 2025 to 28 Nov 2025
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19808,13 +21588,95 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:886aa0c1@dgacm-coc-ics.local
+UID:18ac8775@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260228
-SUMMARY:United Nations Joint Staff Pension Board\, Eighty-second session
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251129
+SUMMARY:United Nations Voluntary Trust Fund on Contemporary Forms of Slaver
+ y\, Board of Trustees\, Thirtieth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
+ 2025 to 28 Nov 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:5de7eaf2@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251204
+SUMMARY:IMO\, Assembly\, Thirty-fourth session
+LOCATION:London
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
+ 2025 to 3 Dec 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c753ea40@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251204
+SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
+ -seventh session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov 
+ 2025 to 3 Dec 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a53c72e2@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:Board of Auditors\, Fifty-fifth special session
 LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Feb 
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Nov 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:be14e0dc@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:Committee on the Exercise of the Inalienable Rights of the Palestin
+ ian People\, Special meeting in observance of the International Day of Sol
+ idarity with the Palestinian People (To be confirmed)
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Nov 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd3971d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251127
+SUMMARY:UN-Habitat\, Executive Board\, Third regular session
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Nov 
+ 2025 to 26 Nov 2025
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:6ccd6a69@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Committee for Development Policy\, Twenty-eighth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Feb 
+ 2026 to 27 Feb 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:532e48c2@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Human Rights Committee\, Pre-sessional Working Group on Communicati
+ ons\, 145th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Feb 
  2026 to 27 Feb 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
@@ -19830,14 +21692,156 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Feb
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:8ac21806@dgacm-coc-ics.local
+UID:d89eab4c@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260509
-SUMMARY:ITU Council\, 2026 session
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260328
+SUMMARY:General Assembly\, Fifth Committee
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Feb 
+ 2026 to 27 Mar 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:28d3d457@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260401
+SUMMARY:Human Rights Council\, Sixty-first session
 LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
- 2026 to 8 May 2026
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Feb 
+ 2026 to 31 Mar 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:5adfee21@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260228
+SUMMARY:Human Rights Committee\, Pre-sessional Working Group on Communicati
+ ons\, 145th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2026 to 27 Feb 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e92b3cab@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260228
+SUMMARY:Human Rights Council\, Board of Trustees of the United Nations Volu
+ ntary Fund for Indigenous Peoples\, Fortieth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb 
+ 2026 to 27 Feb 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:886aa0c1@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260228
+SUMMARY:United Nations Joint Staff Pension Board\, Eighty-second session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Feb 
+ 2026 to 27 Feb 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:df48d13d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Economic and Social Council\, Special meeting on Credit Ratings
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Mar 
+ 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:912ced38@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260401
+SUMMARY:Global Mechanism on developments in the field of ICTs in the contex
+ t of international security and advancing responsible State behaviour in t
+ he use of ICTs.\, Organizational session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Mar 
+ 2026 to 31 Mar 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb47758@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260402
+SUMMARY:Human Rights Council\, Global Alliance of National Human Rights Ins
+ titutions\, Thirty-ninth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Mar 
+ 2026 to 1 Apr 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:9b27a4d4@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260403
+SUMMARY:Committee on the Rights of Persons with Disabilities\, Pre-sessiona
+ l Working Group\, Twenty-first session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Mar 
+ 2026 to 2 Apr 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1417bbf7@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260501
+SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
+ y Organization\, Advisory Group\, Sixty-fifth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 30 Apr 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3c64d7@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260502
+SUMMARY:Ad Hoc Committee of the Human Rights Council on the Elaboration of 
+ Complementary Standards to the International Convention on the Elimination
+  of All Forms of Racial Discrimination\, Sixteenth session\, first part
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 1 May 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c1df9270@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260502
+SUMMARY:Human Rights Council\, Working Group on Situations
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 1 May 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:80ddc2e6@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260502
+SUMMARY:Human Rights Council\, Working Group on the rights of peasants and 
+ other people working in rural areas
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 1 May 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19855,15 +21859,47 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:1417bbf7@dgacm-coc-ics.local
+UID:c12e7efc@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260501
-SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
- y Organization\, Advisory Group\, Sixty-fifth session
-LOCATION:Vienna
+DTEND;VALUE=DATE:20260502
+SUMMARY:UPU\, Postal Operations Council\, First regular session
+LOCATION:Bern
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
- 2026 to 30 Apr 2026
+ 2026 to 1 May 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:8edaf73d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260509
+SUMMARY:Committee on Information\, Forty-eighth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 8 May 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c73afdbe@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260516
+SUMMARY:ICAO\, Air Navigation Commission\, 232nd session
+LOCATION:Montreal\, Canada
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 15 May 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:151b9291@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260516
+SUMMARY:ICAO\, Committee Phase\, 238th session
+LOCATION:Montreal\, Canada
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr 
+ 2026 to 15 May 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19879,15 +21915,14 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:7b6d4107@dgacm-coc-ics.local
+UID:4517d69@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20260626
+DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
-SUMMARY:States parties to the Convention on the Elimination of All Forms of
-  Discrimination against Women\, Twenty-fourth session
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Jun 
- 2026
+SUMMARY:WFP\, Executive Board\, Annual session (To be confirmed)
+LOCATION:Rome
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 22 Jun 
+ 2026 to 26 Jun 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19903,18 +21938,6 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:c808361c@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260709
-SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
- -eighth session
-LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun 
- 2026 to 8 Jul 2026
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
 UID:4394fe14@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20260623
@@ -19926,27 +21949,161 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:74704445@dgacm-coc-ics.local
+UID:bb3800ba@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260626
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group on Trafficking in Persons\, 
+ Sixteenth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
+ 2026 to 25 Jun 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:773df8ec@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260727
+SUMMARY:Advisory Board on Disarmament Matters\, Eighty-sixth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
+ 2026 to 26 Jul 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:7b6d4107@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:States parties to the Convention on the Elimination of All Forms of
+  Discrimination against Women\, Twenty-fourth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Jun 
+ 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:d851a82c@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:UNEP\, Committee of Permanent Representatives\, 174th session
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Jun 
+ 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:c49fefdf@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+SUMMARY:Conference of the Parties to the United Nations Convention against 
+ Transnational Organized Crime\, Working Group on the Smuggling of Migrants
+ \, Thirteenth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jun 
+ 2026 to 30 Jun 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:e1c8e269@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260703
+SUMMARY:Human Rights Council\, Working Group on the use of mercenaries as a
+  means of violating human rights and impeding the exercise of the right of
+  peoples to self determination\, Fifty-seventh session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jun 
+ 2026 to 2 Jul 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:30a6d8a5@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260711
-SUMMARY:UNCITRAL\, Commission\, Fifty-ninth session
-LOCATION:Vienna
+SUMMARY:International Seabed Authority\, Legal and Technical Commission\, S
+ econd part of the thirty-first session
+LOCATION:Kingston
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jun 
  2026 to 10 Jul 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:8a9d4d26@dgacm-coc-ics.local
+UID:381cf280@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261205
-SUMMARY:Meetings of the special rapporteurs\, special representatives\, ind
- ependent experts and chairs of the working groups of the Human Rights Coun
- cil\, Thirty-second session
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:General Assembly\, Commemoration of the International Day for the T
+ otal Elimination of Nuclear Weapons
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep 
+ 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:fd301be9@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261003
+SUMMARY:Committee on the Rights of the Child\, Pre-sessional Working Group\
+ , 102nd session
 LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
- 2026 to 4 Dec 2026
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Sep 
+ 2026 to 2 Oct 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:8ecd27ee@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261003
+SUMMARY:UNCTAD\, Intergovernmental Working Group of Experts on Internationa
+ l Standards of Accounting and Reporting\, Forty-third session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Sep 
+ 2026 to 2 Oct 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:378cace8@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261031
+SUMMARY:Human Rights Council\, Social Forum\, Eighteenth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Oct 
+ 2026 to 30 Oct 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:cfee8443@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Committee against Torture\, Subcommittee on Prevention of Torture a
+ nd Other Cruel\, Inhuman or Degrading Treatment or Punishment\, Fifty-eigh
+ th session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
+ 2026 to 27 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f3157@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Conference of the States Parties to the Convention on the Prohibiti
+ on of the Development\, Production\, Stockpiling and Use of Chemical Weapo
+ ns and on Their Destruction\, Thirty-first session
+LOCATION:The Hague\, Netherlands (Kingdom of the)
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
+ 2026 to 27 Nov 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -19962,40 +22119,14 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
-UID:9e5b444b@dgacm-coc-ics.local
+UID:dfedb06d@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261125
+DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
-SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
- y Organization\, Sixty-seventh session
-LOCATION:Vienna
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Nov 
- 2026 to 27 Nov 2026
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:7698e9a7@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261205
-SUMMARY:Review Conference of the Parties to the Treaty on the Prohibition o
- f Nuclear Weapons\, First Review Conference
-LOCATION:New York
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
- 2026 to 4 Dec 2026
-URL:https://www.un.org/calendar/en/year?page=3
-END:VEVENT
-BEGIN:VEVENT
-UID:b63621ae@dgacm-coc-ics.local
-DTSTAMP:19700101T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261205
-SUMMARY:States parties to the Convention on the Prohibition of the Use\, St
- ockpiling\, Production and Transfer of Anti-personnel Mines and on Their D
- estruction\, Twenty-third session
+SUMMARY:UNCTAD\, Trade and Development Board\, Seventy-ninth session
 LOCATION:Geneva
-DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
- 2026 to 4 Dec 2026
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Nov 
+ 2026 to 27 Nov 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -20023,6 +22154,30 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Nov
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
+UID:9e5b444b@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
+ y Organization\, Sixty-seventh session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 25 Nov 
+ 2026 to 27 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:93c9fd35@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+SUMMARY:Human Rights Council\, Forum on Minority Issues\, Nineteenth sessio
+ n
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Nov 
+ 2026 to 27 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:670cf30@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261126
@@ -20032,6 +22187,17 @@ SUMMARY:UN-Habitat\, open-ended intergovernmental expert working group on a
 LOCATION:Nairobi
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 26 Nov 
  2026 to 27 Nov 2026
+URL:https://www.un.org/calendar/en/year?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:a32f6762@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ITU Council\, Extraordinary session
+LOCATION:Qatar
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Nov 
+ 2026
 URL:https://www.un.org/calendar/en/year?page=3
 END:VEVENT
 BEGIN:VEVENT
@@ -20083,6 +22249,18 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:836ce169@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220627
+DTEND;VALUE=DATE:20220629
+SUMMARY:Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treat
+ y Organization\, Fifty-eighth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
+ 2022 to 28 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:137198a@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20220627
@@ -20106,6 +22284,29 @@ SUMMARY:United Nations Conference to Support the Implementation of Sustaina
 LOCATION:Lisbon
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
  2022 to 1 Jul 2022
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f4d70f@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220627
+DTEND;VALUE=DATE:20220707
+SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixti
+ eth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
+ 2022 to 6 Jul 2022
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:989a297d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20220627
+DTEND;VALUE=DATE:20220716
+SUMMARY:UNCITRAL\, Fifty-fifth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Jun 
+ 2022 to 15 Jul 2022
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20152,6 +22353,19 @@ SUMMARY:Conference of the Parties to the United Nations Convention against
 LOCATION:Vienna
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jun 
  2022 to 30 Jun 2022
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:66a3c78@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221217
+SUMMARY:Review Conference of the States Parties to the Convention on the Pr
+ ohibition of the Development\, Production and Stockpiling of Bacteriologic
+ al (Biological) and Toxin Weapons and on Their Destruction\, Ninth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Nov 
+ 2022 to 16 Dec 2022
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20245,6 +22459,29 @@ DTSTART;VALUE=DATE:20230530
 DTEND;VALUE=DATE:20230603
 SUMMARY:High-level Committee on South-South Cooperation\, Twenty-first sess
  ion
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
+ 2023 to 2 Jun 2023
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:951cbb8a@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230530
+DTEND;VALUE=DATE:20230603
+SUMMARY:Meeting of the Chairpersons of the Human Rights Treaty Bodies\, Thi
+ rty-fifth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
+ 2023 to 2 Jun 2023
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f77d13@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20230530
+DTEND;VALUE=DATE:20230603
+SUMMARY:Permanent Forum of People of African Descent\, Second session
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
  2023 to 2 Jun 2023
@@ -20353,6 +22590,32 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:6187a7c3@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20231130
+DTEND;VALUE=DATE:20231213
+SUMMARY:UNFCCC\, Conference of the Parties to the Convention and meetings o
+ f subsidiary bodies\, Twenty-eighth session
+LOCATION:Dubai
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
+ 2023 to 12 Dec 2023
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1116fb@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240627
+SUMMARY:PrepCom for the Entry into Force of the Agreement under the UNCLOS 
+ and Sustainable Use of Marine Biological Diversity of Areas beyond Nationa
+ l Jurisdiction and the Convening of the First Meeting of the Conference of
+  the Parties to the Agreement\, Organizational meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
+ 2024 to 26 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:39c5ca99@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20240624
@@ -20374,6 +22637,17 @@ SUMMARY:Meeting of the Chairs of the human rights treaty bodies\, Thirty-si
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
  2024 to 28 Jun 2024
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:11099f13@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240713
+SUMMARY:UNCITRAL\, Fifty-seventh session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
+ 2024 to 12 Jul 2024
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20423,6 +22697,18 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Feb
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:395a4731@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250510
+SUMMARY:Preparatory Committee for the 2026 Review Conference of the Parties
+  to the Treaty on the Non-Proliferation of Nuclear Weapons\, Third session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 9 May 2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:11f11674@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20250428
@@ -20445,6 +22731,17 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:c75c76b6@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250531
+SUMMARY:International Law Commission\, Seventy-sixth session (First part)
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2025 to 30 May 2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:dde2f522@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20250429
@@ -20453,6 +22750,29 @@ SUMMARY:UPU\, Council of Administration\, First regular session
 LOCATION:Bern
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Apr 
  2025 to 3 May 2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba5eb00@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250502
+SUMMARY:Preparatory Committee for the Fourth International Conference on Fi
+ nancing for Development\, Fourth session
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Apr 
+ 2025 to 1 May 2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:fe17940e@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250531
+SUMMARY:UN-Habitat Assembly\, Resumed second session
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 May 
+ 2025 to 30 May 2025
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20466,6 +22786,29 @@ SUMMARY:Executive Boards of UNDP/UNFPA/ UNOPS\, UNICEF\, WFP and UN-Women\,
 LOCATION:New York
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
  2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:6a37b75f@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:UN-Habitat\, Executive Board\, Second regular session
+LOCATION:Nairobi
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 May 
+ 2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd57a27@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250628
+SUMMARY:States parties to the United Nations Convention on the Law of the S
+ ea\, Thirty-fifth meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun 
+ 2025 to 27 Jun 2025
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20500,6 +22843,19 @@ SUMMARY:Human Rights Committee\, 144th session
 LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 23 Jun 
  2025 to 17 Jul 2025
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:857b98d@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+SUMMARY:States parties to the International Convention on the Protection of
+  the Rights of All Migrant Workers and Members of Their Families\, Twelfth
+  meeting
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 24 Jun 
+ 2025
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20583,6 +22939,28 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 27 Apr
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:8ac21806@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260509
+SUMMARY:ITU Council\, 2026 session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 28 Apr 
+ 2026 to 8 May 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:74704445@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260711
+SUMMARY:UNCITRAL\, Commission\, Fifty-ninth session
+LOCATION:Vienna
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 29 Jun 
+ 2026 to 10 Jul 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:e06adda6@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20260629
@@ -20630,6 +23008,18 @@ DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun
 URL:https://www.un.org/calendar/en/year?page=4
 END:VEVENT
 BEGIN:VEVENT
+UID:c808361c@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260709
+SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
+ -eighth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun 
+ 2026 to 8 Jul 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
 UID:f8e6e0fb@dgacm-coc-ics.local
 DTSTAMP:19700101T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -20637,6 +23027,44 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:Human Rights Council\, Working Group of Experts on People of Africa
  n Descent\, Thirty-ninth session (To be confirmed)
 LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
+ 2026 to 4 Dec 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9d4d26@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:Meetings of the special rapporteurs\, special representatives\, ind
+ ependent experts and chairs of the working groups of the Human Rights Coun
+ cil\, Thirty-second session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
+ 2026 to 4 Dec 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:7698e9a7@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:Review Conference of the Parties to the Treaty on the Prohibition o
+ f Nuclear Weapons\, First Review Conference
+LOCATION:New York
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
+ 2026 to 4 Dec 2026
+URL:https://www.un.org/calendar/en/year?page=4
+END:VEVENT
+BEGIN:VEVENT
+UID:b63621ae@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:States parties to the Convention on the Prohibition of the Use\, St
+ ockpiling\, Production and Transfer of Anti-personnel Mines and on Their D
+ estruction\, Twenty-third session
+LOCATION:Geneva
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Nov 
  2026 to 4 Dec 2026
 URL:https://www.un.org/calendar/en/year?page=4
@@ -20674,6 +23102,18 @@ SUMMARY:UNIDO\, Industrial Development Board\, Fifty-third session
 LOCATION:Vienna
 DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun 
  2025 to 3 Jul 2025
+URL:https://www.un.org/calendar/en/year?page=5
+END:VEVENT
+BEGIN:VEVENT
+UID:9645f51@dgacm-coc-ics.local
+DTSTAMP:19700101T000000Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250705
+SUMMARY:Subcommittee of Experts on the Transport of Dangerous Goods\, Sixty
+ -sixth session
+LOCATION:Geneva
+DESCRIPTION:Source: UN Calendar of Conferences and Meetings\nDates: 30 Jun 
+ 2025 to 4 Jul 2025
 URL:https://www.un.org/calendar/en/year?page=5
 END:VEVENT
 END:VCALENDAR
